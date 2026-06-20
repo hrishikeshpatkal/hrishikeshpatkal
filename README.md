@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-cover-banner.svg" alt="Hrishikesh Patkal - Full-Stack Developer profile cover" width="100%" />
 
-# Hi, I'm Hrishikesh Patkal
+### Hi, I'm Hrishikesh Patkal
 
 ### Full-Stack Developer | Cloud & DevOps Enthusiast | Generative AI Explorer
 
@@ -11,7 +11,6 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 [![Profile Views](https://komarev.com/ghpvc/?username=hrishikeshpatkal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hrishikeshpatkal)
 [![GitHub followers](https://img.shields.io/github/followers/hrishikeshpatkal?label=Followers&style=social)](https://github.com/hrishikeshpatkal?tab=followers)
 
-<br />
 
 <a href="https://github.com/hrishikeshpatkal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+modern+full-stack+applications;Learning+cloud-native+architecture;Exploring+AI-powered+developer+experiences" alt="Typing SVG" />
@@ -34,7 +33,7 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -69,7 +68,7 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 ---
 
 
-## GitHub Snapshot
+## 📊 GitHub Snapshot
 
 <div align="center">
 
@@ -84,7 +83,7 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 
 ---
 
-## 2026 Goals
+## 🎯 Goals for 2026
 
 - Build and ship more production-ready full-stack projects.
 - Contribute consistently to open source.
@@ -94,7 +93,7 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/hrishikeshpatkal">

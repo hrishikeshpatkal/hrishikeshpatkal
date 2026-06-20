@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Hrishikesh Patkal
-
 <div align="center">
-
-### Full-Stack Software Developer | Cloud Enthusiast | Problem Solver
+  
+### Hi there 👋, I'm Hrishikesh Patkal
+### Full-Stack Software Developer | Cloud & DevOps Enthusiast | Problem Solver
 
 Building scalable web applications with modern technologies and cloud-native solutions.
 
@@ -17,6 +16,7 @@ Building scalable web applications with modern technologies and cloud-native sol
 - ☁️ Interested in Cloud Computing & DevOps
 - 🔧 Working with Angular, Node.js, AWS, and Kubernetes
 - 📚 Continuously learning new technologies and best practices
+- 🤖 Exploring Generative AI and OpenAI integrations to build intelligent, user-centric applications
 - 🎯 Focused on scalable architecture and clean code
 
 ---

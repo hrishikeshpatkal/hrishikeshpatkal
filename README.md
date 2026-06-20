@@ -3,19 +3,15 @@
 <img src="./assets/profile-cover-banner.svg" alt="Hrishikesh Patkal - Full-Stack Developer profile cover" width="100%" />
 
 ### Hi, I'm Hrishikesh Patkal
-
 ### Full-Stack Developer | Cloud & DevOps Enthusiast | Generative AI Explorer
-
 I build scalable web applications, automate delivery workflows, and explore AI-powered product experiences.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hrishikeshpatkal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hrishikeshpatkal)
 [![GitHub followers](https://img.shields.io/github/followers/hrishikeshpatkal?label=Followers&style=social)](https://github.com/hrishikeshpatkal?tab=followers)
 
-
 <a href="https://github.com/hrishikeshpatkal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+modern+full-stack+applications;Learning+cloud-native+architecture;Exploring+AI-powered+developer+experiences" alt="Typing SVG" />
 </a>
-
 </div>
 
 ---
@@ -71,14 +67,10 @@ I build scalable web applications, automate delivery workflows, and explore AI-p
 ## 📊 GitHub Snapshot
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight&hide_border=true" alt="Hrishikesh Patkal GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight&hide_border=true" alt="Hrishikesh Patkal GitHub stats" /><br />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpatkal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshpatkal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---

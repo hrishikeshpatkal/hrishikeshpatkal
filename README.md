@@ -96,25 +96,18 @@ I am passionate about building scalable, high-performance applications and am ac
 
 ---
 
-
-## 📊 GitHub Snapshot
+## 📊 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight&hide_border=true" alt="Hrishikesh Patkal GitHub stats" /><br />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpatkal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshpatkal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpatkal&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshpatkal&theme=tokyonight&hide_border=true" />
+
 </div>
-
----
-
-## 🎯 Goals for 2026
-
-- Build and ship more production-ready full-stack projects.
-- Contribute consistently to open source.
-- Strengthen cloud architecture and DevOps workflows.
-- Create practical AI-powered tools and integrations.
-- Keep improving system design, scalability, and code quality.
 
 ---
 
@@ -136,8 +129,10 @@ I am passionate about building scalable, high-performance applications and am ac
 
 <div align="center">
 
-### Code. Build. Deploy. Scale.
+### Code • Build • Deploy • Scale
 
-Always learning, building, and improving.
+Turning ideas into reliable software with modern technologies.
+
+💡 Full-Stack Development • Cloud • DevOps • Generative AI
 
 </div>

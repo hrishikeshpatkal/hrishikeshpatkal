@@ -1,27 +1,29 @@
 <div align="center">
-  
-### Hi there 👋, I'm Hrishikesh Patkal
-### Full-Stack Software Developer | Cloud & DevOps Enthusiast | Problem Solver
 
-Building scalable web applications with modern technologies and cloud-native solutions.
+# Hi, I'm Hrishikesh Patkal
+
+### Full-Stack Developer | Cloud & DevOps Enthusiast | Generative AI Explorer
+
+I build scalable web applications, automate delivery workflows, and explore AI-powered product experiences.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=hrishikeshpatkal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hrishikeshpatkal)
+[![GitHub followers](https://img.shields.io/github/followers/hrishikeshpatkal?label=Followers&style=social)](https://github.com/hrishikeshpatkal?tab=followers)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Full-Stack Software Developer
-- 🌐 Passionate about building modern web applications
-- ☁️ Interested in Cloud Computing & DevOps
-- 🔧 Working with Angular, Node.js, AWS, and Kubernetes
-- 📚 Continuously learning new technologies and best practices
-- 🤖 Exploring Generative AI and OpenAI integrations to build intelligent, user-centric applications
-- 🎯 Focused on scalable architecture and clean code
+- Full-stack software developer focused on Angular, Node.js, APIs, and cloud-native systems.
+- Interested in clean architecture, reliable deployments, scalable backend services, and practical DevOps.
+- Exploring Generative AI and OpenAI integrations for intelligent, user-focused applications.
+- Currently sharpening skills in AWS, Kubernetes, microservices, and system design.
+- I enjoy turning ideas into products that are simple to use and strong under the hood.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,100 +35,80 @@ Building scalable web applications with modern technologies and cloud-native sol
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-### Cloud & DevOps
+### Cloud, DevOps & AI
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Database
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## What I'm Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshpatkal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpatkal&layout=compact&theme=tokyonight" />
-</p>
+```text
+Cloud-native apps      AWS, Docker, Kubernetes, CI/CD
+Modern web platforms   Angular, TypeScript, Node.js, Express
+AI integrations        OpenAI APIs, automation, assistant-style workflows
+Engineering depth      System design, clean code, performance, reliability
+```
 
 ---
 
-## 🌱 Currently Learning
+## GitHub Snapshot
 
-- Advanced AWS Services
-- Kubernetes Administration
-- Microservices Architecture
-- System Design
-- Cloud-Native Development
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrishikeshpatkal&show_icons=true&theme=tokyonight&hide_border=true" alt="Hrishikesh Patkal GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpatkal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-## 🎯 Goals for 2026
+<br />
 
-- Contribute to Open Source Projects
-- Build Scalable Cloud Applications
-- Master System Design
-- Expand DevOps Expertise
-- Create Impactful Software Solutions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshpatkal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 2026 Goals
+
+- Build and ship more production-ready full-stack projects.
+- Contribute consistently to open source.
+- Strengthen cloud architecture and DevOps workflows.
+- Create practical AI-powered tools and integrations.
+- Keep improving system design, scalability, and code quality.
+
+---
+
+## Connect With Me
 
 <p align="left">
-<a href="https://github.com/hrishikeshpatkal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/hrishikesh-patkal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hrishikeshpatkal@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/hrishikeshpatkal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/hrishikesh-patkal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hrishikeshpatkal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Build. Deploy. Scale." ⭐
-⭐ Always learning, building, and improving. ⭐
+### Code. Build. Deploy. Scale.
 
-Thanks for visiting my profile! 🚀
+Always learning, building, and improving.
 
 </div>
-
-
-
-<!--
-**hrishikeshpatkal/hrishikeshpatkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

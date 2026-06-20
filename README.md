@@ -7,7 +7,7 @@
 I build scalable web applications, automate delivery workflows, and explore AI-powered product experiences.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hrishikeshpatkal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hrishikeshpatkal)
-[![GitHub followers](https://img.shields.io/github/followers/hrishikeshpatkal?label=Followers&style=social)](https://github.com/hrishikeshpatkal?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hrishikeshpatkal?label=Followers&style=social&cacheSeconds=86400)](https://github.com/hrishikeshpatkal?tab=followers)
 
 <a href="https://github.com/hrishikeshpatkal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+modern+full-stack+applications;Learning+cloud-native+architecture;Exploring+AI-powered+developer+experiences" alt="Typing SVG" />
